@@ -1,0 +1,93 @@
+#div1 {
+    padding: 1%;
+    border: 2px darkslategrey solid ;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    inline-size: auto;
+    max-inline-size: 900px;
+    min-inline-size: 400px;
+    background-color: darkslategrey;
+    box-shadow: 2px -1px 10px darkslategrey;
+}
+
+#img1 {
+    float: left;
+    margin-right: 2%;
+    border-radius: 5em;
+    box-shadow: 0 0 15px white ;
+    margin-top: 8px;
+    margin-left: 4.5%;
+    display: inline-block;
+}
+
+h1 {
+    color: cadetblue;
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 10px 10px 7px cadetblue;
+
+}
+
+h2 {
+    font-size: 20px;
+}
+
+p {
+    padding-left: 153px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#p1 {
+    color: deepskyblue;
+}
+
+#p2 {
+    color: cornflowerblue;
+}
+
+#logoLkn {
+    margin: auto;
+}
+
+#logo {
+    text-align: center;
+}
+
+#logoMail {
+    margin-right: 7px;
+}
+
+#logoTel {
+    margin-right: 5px;
+}
+
+span {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+#logoHome {
+    margin-right: 7px;
+}
+
+#logoFcb {
+    margin-left: auto;
+    margin-right: 21.5%;
+}
+
+#logoGit {
+    margin-right: auto;
+    margin-left: 21.5%;
+}
+
+body {
+    height:100%;
+    padding:0;
+    margin:0;
+    color:black;
+    background-color:white;
+    background-image: url("https://www.sciencesetavenir.fr/assets/referentiel/file/5310034.gif");
+    background-size: cover;
+}
