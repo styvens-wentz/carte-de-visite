@@ -7,9 +7,10 @@
     inline-size: auto;
     max-inline-size: 900px;
     min-inline-size: 400px;
-    background-color: darkslategrey;
+    background-color: rgba(47,79,79,0.8);
     box-shadow: 3px -1px 5px darkslategrey;
     border-radius: 2em;
+
 }
 
 #img1 {
@@ -84,9 +85,8 @@ span {
 }
 
 body {
-
     color:black;
     background-color:white;
-    background-image: url("https://www.sciencesetavenir.fr/assets/referentiel/file/5310034.gif");
+    background-image: url("https://www.lemonde.fr/blog/autourduciel/files/2018/01/Orion_Nebula_-_Hubble_2006_mosaic_4000.jpg");
     background-size: cover;
 }
